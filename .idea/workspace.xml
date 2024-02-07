@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0519e00-6106-4a50-9035-36746751c05d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../CreditCards/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreditCards/.idea/CreditCards.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreditCards/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreditCards/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreditCards/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreditCards/eurekaserver/eurekaserver/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreditCards/eurekaserver/eurekaserver/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreditCards/eurekaserver/eurekaserver/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreditCards/eurekaserver/eurekaserver/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreditCards/eurekaserver/eurekaserver/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreditCards/eurekaserver/eurekaserver/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreditCards/eurekaserver/eurekaserver/src/main/java/com/jhonatas/eurekaserver/EurekaserverApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreditCards/eurekaserver/eurekaserver/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreditCards/eurekaserver/eurekaserver/src/test/java/com/jhonatas/eurekaserver/EurekaserverApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IFound.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clinic/clinic/src/main/java/com/jhonatas/clinic/domain/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clinic/clinic/src/main/java/com/jhonatas/clinic/domain/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clinic/clinic/src/main/java/com/jhonatas/clinic/domain/Treatment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clinic/clinic/src/main/java/com/jhonatas/clinic/domain/Treatment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eurekaserver/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eurekaserver/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eurekaserver/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eurekaserver/.idea/eurekaserver.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eurekaserver/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eurekaserver/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eurekaserver/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eurekaserver/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msclients/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msclients/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msclients/msclients/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msclients/msclients/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msclients/msclients/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msclients/msclients/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msclients/msclients/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msclients/msclients/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msclients/msclients/src/main/java/com/jhonatas/msclients/MsclientsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msclients/msclients/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msclients/msclients/src/test/java/com/jhonatas/msclients/MsclientsApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2c2bkQAklTsEAm79Fue2zpcPVLR" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.IfoundApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.IFound [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Micro/OneDrive/Área de Trabalho/DEV/Java/personapi-main/personapi-main/pom.xml&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="IfoundApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.ifound.IfoundApplication" />
+      <module name="IFound" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ifound.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IfoundApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.21-corretto-11.0.21-4caba194b151-9f4ef98c" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0519e00-6106-4a50-9035-36746751c05d" name="Changes" comment="" />
+      <created>1707312764230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707312764230</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
